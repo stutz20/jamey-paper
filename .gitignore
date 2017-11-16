@@ -1,2 +1,4 @@
 *.working
-
+*.pdf
+*.png
+!figures/*
